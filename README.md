@@ -1,4 +1,7 @@
 # 👋 Hi, I’m @jackcunningham
+
+![@codycustard](https://stackexchange.com/users/flair/3204317.png)
+
 - 👩‍🚀 a Jamstack developer and UX engineer
 - 🥷 Most of my repos are private, sorry that's just the way it has to be! The rest are my fun projects, experiments and other flotsam and jetsam
 - 🤓 I love developing in Vue.js and Nuxt.js 
